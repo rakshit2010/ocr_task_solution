@@ -25,7 +25,7 @@ The system performs full-text scanning, applies multi-engine OCR fusion (Tessera
 #### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/rakshit2010/shipping-label-ocr.git
+git clone https://github.com/rakshit2010/ocr_task_solution.git
 cd shipping-label-ocr
 ```
 
