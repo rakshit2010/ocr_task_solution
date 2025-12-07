@@ -164,25 +164,6 @@ Combines:
 
 ---
 
-### Accuracy Calculation Methodology
-
-1. Prepare labeled dataset.
-2. Compute:
-
-```
-accuracy = correct_predictions / total_samples
-```
-
-3. Additional metrics:
-
-* Digit accuracy
-* Suffix accuracy
-* Full-token exact match
-* Levenshtein distance (optional)
-
----
-
-
 ## 5. Challenges & Solutions
 
 ### OCR splits digits incorrectly
