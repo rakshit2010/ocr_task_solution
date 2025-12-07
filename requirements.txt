@@ -1,0 +1,11 @@
+opencv-python
+pillow
+numpy
+pytesseract
+easyocr
+torch
+python-Levenshtein
+streamlit
+scikit-learn
+matplotlib
+tqdm
