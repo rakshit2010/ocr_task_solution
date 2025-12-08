@@ -1075,9 +1075,7 @@ if not found_pair_repaired:
 # If found, set extracted_value (normalized repaired form)
 if found_pair_repaired:
     extracted_value = found_pair_repaired.upper()
-# Patch: Add heuristic candidate to ded_list so pick_best_match can score it
-# Insert this block after the HEURISTIC_FINALIZED section and before the strict matching
-# (i.e., just before the line: "# ------------------- STRICT MATCHING (RUN ONLY IF NO REPAIRED VALUE) --")
+
 
 # --- BEGIN PATCH ---
 if hb_barcode and valid_barcode(hb_barcode):
