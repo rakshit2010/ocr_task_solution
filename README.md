@@ -55,7 +55,7 @@ Add to PATH:
 ```
 C:\Program Files\Tesseract-OCR
 ```
-
+Or change the path in ocr_engine.py to your tesseract path
 #### 4️⃣ Run the Application
 
 ```bash

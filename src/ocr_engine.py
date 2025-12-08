@@ -1,6 +1,6 @@
 # ocr_engine.py
 import pytesseract
-
+#Change this path to your Tesseract-OCR installation path
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 import easyocr
 
